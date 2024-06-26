@@ -1,0 +1,8 @@
+.navbar {
+  background-color: #343a40; /* dark background */
+}
+
+.navbar-brand {
+  font-size: 0.5rem; /* increase brand font size */
+  font-weight: bold; /* make brand text bold */
+}
